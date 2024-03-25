@@ -28,9 +28,9 @@ Here's a preview of the login and signup pages:
 
 **Login Page:**
 
-![Login Page Preview](login page preview.png)
+![Login Page Preview](login_page_preview.png)
 
 **Signup Page:**
 
-![Signup Page Preview](signup page preview.png)
+![Signup Page Preview](signup_page_preview.png)
 
